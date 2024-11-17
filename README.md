@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nicole</h1>
 
 
-- 👀 I’m a student majoring in computer engineering: software dev and mobile platforms
+- 👀 Currently a student majoring in computer science engineering.
 - ✨ I like databases, data analysis, cybersecurity, web development and more...
 - 🌱 I’m currently learning Python and Kotlin...
 - 📫 How to reach me ...
@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
