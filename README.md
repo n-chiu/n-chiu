@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <!-- Add more badges as needed -->
 </p>
 
-### Currently learning...
+### Currently learning
 <p align="left">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
