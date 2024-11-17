@@ -1,11 +1,9 @@
 <h1 align="center">👋 Hi, I'm Nicole</h1>
 
 
-- 👀 Currently a student majoring in computer science engineering.
+- 👀 Computer Science Engineering student.
 - ✨ I like databases, data analysis, cybersecurity, web development and more...
-- 🌱 I’m currently learning Python and Kotlin...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 🌱 Learning Kotlin for Android App Dev and Python for Network Programming
 
 <!---
 n-chiu/n-chiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
