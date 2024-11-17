@@ -3,7 +3,7 @@
 
 - 👀 Computer Science Engineering student.
 - ✨ I like databases, data analysis, cybersecurity, web development and more...
-- 🌱 Learning Kotlin for Android App Dev and Python for Network Programming
+- 🌱 Currently learning Kotlin for Android App Dev and Python for Network Programming
 
 <!---
 n-chiu/n-chiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
